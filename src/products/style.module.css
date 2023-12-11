@@ -1,0 +1,11 @@
+.product{
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 30px;
+    column-gap: 50px;
+    justify-content: space-evenly;
+    /* border: 1px solid black; */
+    height: 450px;
+    overflow-y:scroll;
+        /* color: rgb(3, 143, 57); */
+}
