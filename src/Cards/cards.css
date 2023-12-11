@@ -1,0 +1,22 @@
+.master{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    margin: 40px;
+    border: 1px transparent;
+    padding: 2px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 8px 8px grey;
+    width: 20%;
+}
+.sub{
+    margin: 11px;
+}
+.button{
+    border-radius: 5px;
+    background-color: rgb(12, 85, 244);
+}
